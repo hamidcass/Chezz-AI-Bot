@@ -2,8 +2,8 @@
 Developed a Chess AI using Python that determines the most optimal move to play, by utilizing a best-first search algorithm. This algorithm takes in a heuristic evaluation function which sorts all potential moves and boards based on factors a variety of factors such as piece value and potential captures.
 
 ## How to run
-`./run <board.txt>` where `board.txt` is a valid board file in the format:
-`w 0 60000 0
+`./run <board.txt>` where `board.txt` is a valid board file in the format: <br>  
+` w 0 60000 0 
 {
 a1: 'wF',
 a2: 'wP',
